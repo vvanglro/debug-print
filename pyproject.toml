@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "debug-print2"
+version = "0.1.1"
+description = "Capture the print function and add some output information to it for easy debugging"
+authors = ["vvanglro"]
+readme = "README.md"
+packages = [{include = "debug_print"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
