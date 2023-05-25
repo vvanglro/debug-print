@@ -1,4 +1,6 @@
 # debug-print
+[![Package version](https://img.shields.io/pypi/v/debug-print2?color=%2334D058&label=pypi%20package)](https://pypi.python.org/pypi/debug-print2)
+
 Capture the print function and add some output information to it for easy debugging.
 
 ## why？
