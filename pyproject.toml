@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "debug-print2"
-version = "0.1.1"
+version = "0.1.2"
 description = "Capture the print function and add some output information to it for easy debugging"
 authors = ["vvanglro"]
 readme = "README.md"
