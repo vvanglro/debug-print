@@ -17,7 +17,6 @@ pip install debug-print2
 
 ## Usage:
 Just import it at the run entry.
-
 ```python
 import debug_print
 debug_print.patch()
